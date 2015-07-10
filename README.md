@@ -8,19 +8,15 @@ resources: 2
 
 ## Objective
 
+Who doesn't love a good game of dice?
+
 Create a `roll` function that returns 1,2,3,4,5 or 6 randomly!
 
-## Spec
+Search for how to generate random numbers in javascript. Write your roll function in lib/dice.js.
 
-To run the specs follow these commands:
-```shell
-# first install the new gem to run the tests
-gem sources -a http://flatiron:33west26@gems.flatironschool.com
-gem install learn-co
+Open index.html in the browser to test your function at work!
 
-# to run in the command line run
-learn
+## Challenge
+Add another function to roll two dice at the same time!
 
-#to run in the browser
-learn -b
-```
+How would you have both available in index.html?
