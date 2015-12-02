@@ -16,3 +16,5 @@ Open index.html in the browser to test your function at work!
 Add another function to roll two dice at the same time!
 
 How would you have both available in index.html?
+
+<a href='https://learn.co/lessons/cssi-2.4-lab-dice-roll' data-visibility='hidden'>View this lesson on Learn.co</a>
