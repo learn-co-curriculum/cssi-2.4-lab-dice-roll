@@ -17,4 +17,4 @@ Add another function to roll two dice at the same time!
 
 How would you have both available in index.html?
 
-<a href='https://learn.co/lessons/cssi-2.4-lab-dice-roll' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.4-lab-dice-roll' title='Dice'>Dice</a> on Learn.co and start learning to code for free.</p>
